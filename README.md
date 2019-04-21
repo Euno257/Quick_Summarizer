@@ -7,9 +7,9 @@ Python 3.2 or greater must be installed
 
 ## Setup Virtualenv
 Virtualenv is a Python library that allows you to create virtual Python environments and avoid isues with shared library versioning. This step is not required but highly reccomended.
-<p><code> $ mkdir simple-summarizer && cd simple-summarizer
-$ virtualenv venv --python=python3.6
-  $ source venv/bin/activate </code></p>
+<p><code> $ mkdir simple-summarizer && cd simple-summarizer </code></p>
+<p><code> $ virtualenv venv --python=python3.6 </p></code>
+<p><code> $ source venv/bin/activate </code></p>
  
 ## Installing NLTK
 <p><code> pip install nltk </code></p>
