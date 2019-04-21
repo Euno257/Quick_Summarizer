@@ -15,7 +15,7 @@ Virtualenv is a Python library that allows you to create virtual Python environm
 <p><code> pip install nltk </code></p>
 
 ## Code 
-See summarize.py 
+See [summarize.py](https://github.com/Euno257/Quick_Summarizer/blob/master/summarizer/summarize.py)
 
 ## Run on command line 
 <p><code> (venv) $ python Summarizer/Summarizer.py data/Greenland-Melting-Full.txt </code></p>
