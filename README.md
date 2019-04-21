@@ -19,3 +19,6 @@ See [summarize.py](https://github.com/Euno257/Quick_Summarizer/blob/master/summa
 
 ## Run on command line 
 <p><code> (venv) $ python Summarizer/Summarizer.py data/Greenland-Melting-Full.txt </code></p>
+
+## Custom input
+Place your custom input text file into the 'data' folder. And make changes in CLI command.
