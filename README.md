@@ -22,3 +22,6 @@ See [summarize.py](https://github.com/Euno257/Quick_Summarizer/blob/master/summa
 
 ## Custom input
 Place your custom input text file into the 'data' folder. And make changes in CLI command.
+<p><code> $ source venv/bin/activate </code></p>
+<p><code> (venv) $ python summarizer/summarize.py data/monkeyking.txt </code></p>
+ 
